@@ -1,4 +1,4 @@
-calculate-measurement [![npm version](https://badge.fury.io/js/calculate-measurement.svg)](https://badge.fury.io/js/calculate-measurement)
+calculate-measurement [![npm version](https://badge.fury.io/js/calculate-measurement.svg)](https://badge.fury.io/js/calculate-measurement) [![Build Status](https://travis-ci.org/pswai/calculate-measurement.svg?branch=master)](https://travis-ci.org/pswai/calculate-measurement)
 ---------
 > Mathematical operations with CSS unit
 
